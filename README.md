@@ -1,5 +1,4 @@
-# SpringBoot Basic Weekly Mission
-스프링부트 basic 위클리미션을 코드리뷰하는 Repository입니다.
+# 위클리 미션 코드 리뷰로 얻은 객체지향 설계 인사이트
 
 ## 미션별 코드리뷰 상세 내용
 [🌈 Mission 1](https://github.com/prgrms-be-devcourse/springboot-basic/pull/669)  <br>
